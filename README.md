@@ -1,2 +1,1 @@
-# Sneakers
-Tienda de Sneakers
+
